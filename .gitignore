@@ -1,0 +1,19 @@
+# 编译产物
+*.o
+*.obj
+*.a
+*.so
+*.elf
+*.bin
+*.hex
+*.map
+*.out
+hello
+build/
+cmake-build-*/
+# 调试与日志
+core
+core.*
+*.log
+*.swp
+.DS_Store
