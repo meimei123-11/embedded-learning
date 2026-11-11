@@ -13,8 +13,9 @@ int main(void)
 
     reg_set_bit(&gpio_ctrl, 3);   /* 期望得到 0x00000008 */
 
-    printf("hello embedded\n");
+    printf("妈妈我爱你\n");
     printf("sizeof(void*)=%zu, sizeof(uint32_t)=%zu, gpio_ctrl=0x%08X\n",
            sizeof(void *), sizeof(uint32_t), gpio_ctrl);
     return 0;
 }
+
