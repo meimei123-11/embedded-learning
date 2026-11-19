@@ -6,7 +6,7 @@
 | 11/16 一 | 1 | 是 | mkdir -p week03; code . |
 | 11/17 二 | 3 | 是 | pwd, ls -l, cd, mkdir, cp, cat, head, grep |
 | 11/18 三 | 2 | 是 | find, wc -l ， chmod， ls -1|
-| 11/19 四 |  |  |  |
+| 11/19 四 | 1 | 是 | touch, ls -l, ps aux, head |
 | 11/20 五 |  |  |  |
 | 11/21 六 |  |  |  |
 | 11/22 日 |  |  |  |
