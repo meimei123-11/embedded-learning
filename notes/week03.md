@@ -6,10 +6,10 @@
 | 11/16 一 | 1 | 是 | mkdir -p week03; code . |
 | 11/17 二 | 3 | 是 | pwd, ls -l, cd, mkdir, cp, cat, head, grep |
 | 11/18 三 | 2 | 是 | find, wc -l ， chmod， ls -1|
-| 11/19 四 | 1 | 是 | touch, ls -l, ps aux, head |
-| 11/20 五 |  |  |  |
-| 11/21 六 |  |  |  |
-| 11/22 日 |  |  |  |
+| 11/19 四 | 1 | 是 | touch, ls -l, ps aux, head（另做网络加料与复习） |
+| 11/20 五 | 0 | 否 | — |
+| 11/21 六 | 0 | 否 | — |
+| 11/22 日 | 1 | 是 | git revert 演练：commit + revert + push |
 
 ## 本周三件正式任务
 - [ ] 命令行 20 题（文件 / 权限 / 进程 / 网络排查）
